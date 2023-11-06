@@ -1,4 +1,5 @@
 # FresherTrainingBatch30
+1.1.SF4298-kaviyarasan
 2.SF4306-samakimperrera
 3.SF4286-Arunadevi
 4.SF4295-Gowsika
@@ -11,3 +12,4 @@
 11.SF4308-Shabesh
 12.SF4288-Balaganeshan
 13.SF4296-Gunal
+14.SF4293-Gokuls
