@@ -1,8 +1,5 @@
 # FresherTrainingBatch30
-<<<<<<< Updated upstream
-1.SF4297-Hemaprasanth
-=======
 1.SF4298-kaviyarasan
 2.SF4306-samakimperrera
 3.Sf4297-hemaprasanth
->>>>>>> Stashed changes
+
