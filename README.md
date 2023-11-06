@@ -1,2 +1,3 @@
 # FresherTrainingBatch30
-1.SF4302-Manojprabhu
+1.SF4298-kaviyarasan
+2.SF4306-samakimperrera
